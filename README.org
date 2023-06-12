@@ -1,0 +1,10 @@
+* CSV
+
+Convert CSV (in a reader macro, or in a file) in to Lisp lists.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/equwal/CSV.git   |
+| commit  | f122dd6  |
+| systems | CSV |
+|---------+-------------------------------------------|
+
